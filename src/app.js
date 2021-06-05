@@ -1,4 +1,3 @@
-"use strict";
 // classes
 var Invoice = /** @class */ (function () {
     // readonly client: string;
